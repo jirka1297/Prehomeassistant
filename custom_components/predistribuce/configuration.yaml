@@ -1,0 +1,5 @@
+# Example configuration.yaml entry for showing current HDO state and HTML for rendering a time schedule
+binary_sensor:
+  platform: predistribuce
+  name: nocni proud
+  receiver_command_id: 485
