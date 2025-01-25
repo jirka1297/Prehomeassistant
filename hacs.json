@@ -1,0 +1,9 @@
+{
+    "name": "PRE Distribuce CZ",
+    "render_readme": false,
+    "domains": [
+	"binary_sensor"
+    ],
+    "country": "CZ",
+    "homeassistant": "2022.5.6"
+}
